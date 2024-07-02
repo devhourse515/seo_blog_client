@@ -1,0 +1,37 @@
+.section-contact {
+    &.style-three {
+        .content-main {
+            color: setColor(black);
+
+            .tag {
+                color: setColor(black);
+                background-color: setColor(yellow);
+            }
+
+        }
+
+        .list-features,
+        .organizatio,
+        .select {
+            display: none;
+        }
+
+        .button-main {
+            background-color: setColor(yellow);
+            color: setColor(black);
+        }
+    }
+
+    &.style-five {
+        .content-main {
+            .tag {
+                background-color: setColor(green);
+            }
+
+        }
+
+        .button-main {
+            background-color: setColor(green);
+        }
+    }
+}

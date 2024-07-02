@@ -1,0 +1,92 @@
+[
+    {
+        "id": "1",
+        "title": "Which device can I use to enter your service?",
+        "desc": "You can access our service from any device with an internet connection."
+    },
+    {
+        "id": "2",
+        "title": "What are your products and services?",
+        "desc": "Our products and services include [describe your products/services briefly]."
+    },
+    {
+        "id": "3",
+        "title": "How can I contact your customer support department?",
+        "desc": "You can contact our customer support department by provide contact information during our business hours."
+    },
+    {
+        "id": "4",
+        "title": "Can I return items if I'm not satisfied?",
+        "desc": "Yes, you can return items within [specify time frame] if you are not satisfied."
+    },
+    {
+        "id": "5",
+        "title": "Do you have a customer loyalty program?",
+        "desc": "Yes, we have a customer loyalty program. Earn points with each purchase and enjoy exclusive benefits."
+    },
+    {
+        "id": "6",
+        "title": "What is a digital agency?",
+        "desc": "You can access our service from any device with an internet connection."
+    },
+    {
+        "id": "7",
+        "title": "What services does a digital agency typically offer?",
+        "desc": "Our products and services include [describe your products/services briefly]."
+    },
+    {
+        "id": "8",
+        "title": "How do I choose the right digital agency for my business?",
+        "desc": "You can contact our customer support department by provide contact information during our business hours."
+    },
+    {
+        "id": "9",
+        "title": "What are the benefits of SEO services from a digital agency?",
+        "desc": "Yes, you can return items within [specify time frame] if you are not satisfied."
+    },
+    {
+        "id": "10",
+        "title": "Do I need a responsive website, and what is it?",
+        "desc": "Yes, we have a customer loyalty program. Earn points with each purchase and enjoy exclusive benefits."
+    },
+    {
+        "id": "11",
+        "title": "How can I contact your support department?",
+        "desc": "You can access our service from any device with an internet connection."
+    },
+    {
+        "id": "12",
+        "title": "What are the support department's operating hours?",
+        "desc": "Our products and services include [describe your products/services briefly]."
+    },
+    {
+        "id": "13",
+        "title": "Where can I track the status of my support request?",
+        "desc": "You can contact our customer support department by provide contact information during our business hours."
+    },
+    {
+        "id": "14",
+        "title": "How do I submit a new support service request?",
+        "desc": "Yes, you can return items within [specify time frame] if you are not satisfied."
+    },
+    {
+        "id": "15",
+        "title": "How can I provide feedback on your support service",
+        "desc": "Yes, we have a customer loyalty program. Earn points with each purchase and enjoy exclusive benefits."
+    },
+    {
+        "id": "16",
+        "title": "Can I return items if I'm not satisfied?",
+        "desc": "Yes, you can return items within [specify time frame] if you are not satisfied."
+    },
+    {
+        "id": "17",
+        "title": "How do I choose the right digital agency for my business?",
+        "desc": "You can contact our customer support department by provide contact information during our business hours."
+    },
+    {
+        "id": "18",
+        "title": "Where can I track the status of my support request?",
+        "desc": "Yes, we have a customer loyalty program. Earn points with each purchase and enjoy exclusive benefits."
+    }
+]

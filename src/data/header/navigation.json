@@ -1,0 +1,226 @@
+[
+  {
+    "title": "Home",
+    "to": "#!",
+    "subMenu": [
+      {
+        "title": "Home IT Sevices",
+        "to": "/"
+      },
+      {
+        "title": "Home Business Consulting",
+        "to": "/home/homepage2"
+      },
+      {
+        "title": "Home IoT Services",
+        "to": "/home/homepage3"
+      },
+      {
+        "title": "Home Digital Agency",
+        "to": "/home/homepage4"
+      },
+      {
+        "title": "Home Finance",
+        "to": "/home/homepage5"
+      },
+      {
+        "title": "Digital SEO Marketing",
+        "to": "/home/homepage6"
+      },
+      {
+        "title": "Home Helpdesk",
+        "to": "/home/homepage7"
+      }
+    ]
+  },
+  {
+    "title": "Solutions",
+    "to": "#!",
+    "subMenu": [
+      {
+        "title": "Managed IT Services",
+        "to": "/services/managed-it-services",
+        "icon": "icon-phone-sync"
+      },
+      {
+        "title": "IT Consulting",
+        "to": "/services/it-consulting",
+        "icon": "icon-user-sync"
+      },
+      {
+        "title": "Cloud Computing",
+        "to": "/services/cloud-computing",
+        "icon": "icon-device-cloud"
+      },
+      {
+        "title": "Cybersecurity Solutions",
+        "to": "/services/cybersecurity-solutions",
+        "icon": "icon-cloud-dots"
+      },
+      {
+        "title": "Data Analytics",
+        "to": "/services/data-analytics",
+        "icon": "icon-phone-cloud"
+      },
+      {
+        "title": "Software Development",
+        "to": "/services/software-development",
+        "icon": "icon-device-sync"
+      },
+      {
+        "title": "Business Strategy Analysis",
+        "to": "/services/business-strategy",
+        "icon": "icon-coin-user"
+      },
+      {
+        "title": "Project Management",
+        "to": "/services/project-management",
+        "icon": "icon-user-time"
+      },
+      {
+        "title": "Operational Optimization",
+        "to": "/services/operational-optimization",
+        "icon": "icon-hand-up"
+      },
+      {
+        "title": "Digital Consulting",
+        "to": "/services/digital-consulting",
+        "icon": "icon-device-cloud"
+      },
+      {
+        "title": "Marketing Strategy",
+        "to": "/services/marketing-strategy",
+        "icon": "icon-target-chart"
+      },
+      {
+        "title": "Leadership Development",
+        "to": "/services/leadership-development",
+        "icon": "icon-user-chart"
+      }
+    ]
+  },
+  {
+    "title": "Company",
+    "to": "#!",
+    "subMenu": [
+      {
+        "title": "About Us",
+        "to": "/company/about-us"
+      },
+      {
+        "title": "Pricing Plan",
+        "to": "/company/pricing-plan"
+      },
+      {
+        "title": "Our Teams",
+        "to": "/company/our-teams"
+      },
+      {
+        "title": "Team Details",
+        "to": "/company/team-detail"
+      },
+      {
+        "title": "Testimonials",
+        "to": "/company/testimonials"
+      }
+    ]
+  },
+  {
+    "title": "Case Studies",
+    "to": "#!",
+    "subMenu": [
+      {
+        "title": "Case Studies 1",
+        "to": "/case-studies/case-studies-one"
+      },
+      {
+        "title": "Case Studies 2",
+        "to": "/case-studies/case-studies-two"
+      },
+      {
+        "title": "Case Studies 3",
+        "to": "/case-studies/case-studies-three"
+      },
+      {
+        "title": "Case Studies 4",
+        "to": "/case-studies/case-studies-four"
+      },
+      {
+        "title": "Single Studies 1",
+        "to": "/case-studies/case-studies-detail1"
+      },
+      {
+        "title": "Single Studies 2",
+        "to": "/case-studies/case-studies-detail2"
+      }
+    ]
+  },
+  {
+    "title": "Blog",
+    "to": "#!",
+    "subMenu": [
+      {
+        "title": "Blog Grid",
+        "to": "/blog/blog-grid"
+      },
+      {
+        "title": "Blog List",
+        "to": "/blog/blog-list"
+      },
+      {
+        "title": "Blog Standard",
+        "to": "/blog/blog-standard"
+      },
+      {
+        "title": "Blog Modern",
+        "to": "/blog/blog-modern"
+      },
+      {
+        "title": "Blog Details 1",
+        "to": "/blog/detail1"
+      },
+      {
+        "title": "Blog Details 2",
+        "to": "/blog/detail2"
+      }
+    ]
+  },
+  {
+    "title": "Pages",
+    "to": "#!",
+    "subMenu": [
+      {
+        "title": "Contact Us",
+        "to": "/pages/contact-us"
+      },
+      {
+        "title": "FAQs",
+        "to": "/pages/faqs"
+      },
+      {
+        "title": "Error 404",
+        "to": "/pages/error"
+      },
+      {
+        "title": "Login/Register",
+        "to": "/pages/login"
+      },
+      {
+        "title": "Our Shop",
+        "to": "/pages/our-shop"
+      },
+      {
+        "title": "Products Detail",
+        "to": "/pages/products-detail"
+      },
+      {
+        "title": "Shopping Cart",
+        "to": "/pages/cart"
+      },
+      {
+        "title": "Checkout",
+        "to": "/pages/checkout"
+      }
+    ]
+  }
+]

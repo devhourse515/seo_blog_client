@@ -1,0 +1,182 @@
+[
+    {
+        "id": "1",
+        "icon": "icon-phone-sync",
+        "title": "Managed IT Services",
+        "desc": "Outsourcing IT management and maintenance, including network monitoring, data backup, cybersecurity, help desk support."
+    },
+    {
+        "id": "2",
+        "icon": "icon-user-sync",
+        "title": "IT Consulting",
+        "desc": "Strategic guidance on IT strategy, digital transformation, software implementation, and project management."
+    },
+    {
+        "id": "3",
+        "icon": "icon-device-cloud",
+        "title": "Cloud Computing",
+        "desc": "Access to remote servers and infrastructure for data storage, application hosting, and scalable resources."
+    },
+    {
+        "id": "4",
+        "icon": "icon-cloud-dots",
+        "title": "Cybersecurity Solutions",
+        "desc": "Protecting businesses from cyber threats through measures like network security, encryption, and training."
+    },
+    {
+        "id": "5",
+        "icon": "icon-phone-cloud",
+        "title": "Data Analytics",
+        "desc": "Services for data storage, backup, integration, governance, and analytics to drive insights and informed decisions."
+    },
+    {
+        "id": "6",
+        "icon": "icon-device-sync",
+        "title": "Software Development",
+        "desc": "Custom software development and integration services to meet specific business needs."
+    },
+    {
+        "id": "7",
+        "icon": "Bank",
+        "title": "Finance & Banking",
+        "desc": "Outsourcing IT management and maintenance, including network monitoring, data backup, cybersecurity, help desk support."
+    },
+    {
+        "id": "8",
+        "icon": "Rocket",
+        "title": "Information Technology & Telecommunications",
+        "desc": "Strategic guidance on IT strategy, digital transformation, software implementation, and project management."
+    },
+    {
+        "id": "9",
+        "icon": "FirstAidKit",
+        "title": "Healthcare & Pharmaceuticals",
+        "desc": "Access to remote servers and infrastructure for data storage, application hosting, and scalable resources."
+    },
+    {
+        "id": "10",
+        "icon": "AirplaneTakeoff",
+        "title": "Transportation & Logistics",
+        "desc": "Protecting businesses from cyber threats through measures like network security, encryption, and training."
+    },
+    {
+        "id": "11",
+        "icon": "Warehouse",
+        "title": "Real Estate",
+        "desc": "Services for data storage, backup, integration, governance, and analytics to drive insights and informed decisions."
+    },
+    {
+        "id": "12",
+        "icon": "Wrench",
+        "title": "Manufacturing & Industry 4.0",
+        "desc": " Custom software development and integration services to meet specific business needs."
+    },
+    {
+        "id": "13",
+        "icon": "Basket",
+        "title": "Education & Training",
+        "desc": "Access to remote servers and infrastructure for data storage, application hosting, and scalable resources."
+    },
+    {
+        "id": "14",
+        "icon": "LightbulbFilament",
+        "title": "Energy & Environment",
+        "desc": "Protecting businesses from cyber threats through measures like network security, encryption, and training."
+    },
+    {
+        "id": "15",
+        "icon": "GraduationCap",
+        "title": "E-commerce & Retail",
+        "desc": "Services for data storage, backup, integration, governance, and analytics to drive insights and informed decisions."
+    },
+    {
+        "id": "16",
+        "icon": "YoutubeLogo",
+        "title": "Entertainment and Media",
+        "desc": "Custom software development and integration services to meet specific business needs."
+    },
+    {
+        "id": "17",
+        "icon": "icon-coin-user",
+        "title": "Business Strategy Analysis",
+        "desc": "Crafting strategic pathways through comprehensive market analysis to achieve business objectives."
+    },
+    {
+        "id": "18",
+        "icon": "icon-user-time",
+        "title": "Project Management",
+        "desc": "Ensuring successful project execution by expertly managing timelines, resources, and deliverables."
+    },
+    {
+        "id": "19",
+        "icon": "icon-hand-up",
+        "title": "Operational Optimization",
+        "desc": "Enhancing performance by streamlining processes, boosting efficiency, and reducing expenditures."
+    },
+    {
+        "id": "20",
+        "icon": "icon-device-cloud",
+        "title": "Digital Consulting",
+        "desc": "Navigating the digital landscape, from system enhancements to transformative tech solutions."
+    },
+    {
+        "id": "21",
+        "icon": "icon-target-chart",
+        "title": "Marketing Strategy",
+        "desc": "Developing impactful marketing blueprints, leveraging market insights for effective campaigns."
+    },
+    {
+        "id": "22",
+        "icon": "icon-user-chart",
+        "title": "Leadership Development",
+        "desc": "Cultivating top-tier leadership skills for managerial excellence and elevated performance."
+    },
+    {
+        "id": "23",
+        "icon": "icon-coin-user",
+        "title": "Business Strategy",
+        "desc": "Develop long-term plans and make informed decisions to drive corporate growth and competitiveness."
+    },
+    {
+        "id": "24",
+        "icon": "icon-hand-up",
+        "title": "Financial Advisory",
+        "desc": "Maximize your finances with expert Financial Advisory. Smart strategies for saving, investing, debt, retirement, and asset protection."
+    },
+    {
+        "id": "25",
+        "icon": "icon-user-sync",
+        "title": "HR Consulting",
+        "desc": "Optimize talent acquisition, employee development, performance management, and organizational design."
+    },
+    {
+        "id": "26",
+        "icon": "icon-device-cloud",
+        "title": "IT Solutions",
+        "desc": "Leverage technology for efficient business processes, enhanced cybersecurity, digital transformation innovation."
+    },
+    {
+        "id": "27",
+        "icon": "icon-chart",
+        "title": "Search Engine Optimization",
+        "desc": "Enhancing your website's visibility on search engines to attract organic traffic and improve search rankings."
+    },
+    {
+        "id": "28",
+        "icon": "icon-sms",
+        "title": "Social Media Marketing",
+        "desc": "Creating and managing engaging social media campaigns to connect with your audience, increase brand awareness."
+    },
+    {
+        "id": "29",
+        "icon": "icon-notification",
+        "title": "Pay-Per-Click Advertising",
+        "desc": "Running targeted advertising campaigns on platforms like Google Ads to drive immediate traffic and conversions."
+    },
+    {
+        "id": "30",
+        "icon": "icon-hand-touch",
+        "title": "Content Marketing",
+        "desc": "Creating valuable and relevant content to attract and engage your target audience, building trust and authority."
+    }
+]
